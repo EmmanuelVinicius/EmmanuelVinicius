@@ -13,6 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 My name is Emmanuel Vinicius! I'm Brazillian, living on Belo Horizonte-MG.
+I'm a Web Developer, with frontend and backend knolege. I exercise the function over 2 years. It seems a little thing, but I also want to help who need it.
 🐝 I'm currently working at **Sambatech**.
 
 - 🔭 I’m currently working with
