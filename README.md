@@ -16,6 +16,7 @@ My name is Emmanuel Vinicius! I'm Brazillian, living on Belo Horizonte-MG.
 🐝 I'm currently working at **Sambatech**.
 
 - 🔭 I’m currently working with
+<br>
 ![Js Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=222)
 ![Html 5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![React badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=222&)
