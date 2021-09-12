@@ -8,7 +8,7 @@
 
 I'm Brazillian, living on [Belo Horizonte-MG](http://portalbelohorizonte.com.br/inicio).
 <br>
-I'm a Web Developer, with frontend and backend knolege. I exercise the function over 4 years. It seems a little thing, but I want to use the things I've learn througt this years to help the people to reach their objectives, as a programmer and as a person.
+Studying and working as a Web Developer, with frontend and backend knolege. I exercise the function over 4 years. It seems a little thing, but I want to use the things I've learn througt this years to help the people to reach their objectives, as a programmer and as a person.
 <br>
 
 ### I'm currently...
