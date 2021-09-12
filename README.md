@@ -10,7 +10,12 @@ I'm Brazillian, living on [Belo Horizonte-MG](http://portalbelohorizonte.com.br/
 <br>
 I'm a Web Developer, with frontend and backend knolege. I exercise the function over 4 years. It seems a little thing, but I also want to help who need it.
 <br>
-🐝 I'm currently working at **Sambatech**.
+ - 🐝 Backend Squad Lead at [**Sambatech**](https://sambatech.com/).
+ - 💼 Freelancer of extra projects
+ - 📱 Working on mobile apps - It is not on the stores... Yet...
+ - ✍🏻 Medium Writer - Just started...
+ - 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
+
 
 ### ✨ How I can be found
 [![Gmail Badge](https://img.shields.io/badge/-emmanuel.vinicius.98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emmanuel.vinicius.98@gmail.com)](mailto:emmanuel.vinicius.98@gmail.com)
