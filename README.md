@@ -66,7 +66,6 @@ Studying and working as a Web Developer, with frontend and backend knolege. I ex
 
 <hr>
 
-<hr>
 <h2 align="center">How I can be found ✨</h2>
 <br />
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emmanuel.vinicius.98@gmail.com)](mailto:emmanuel.vinicius.98@gmail.com)
