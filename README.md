@@ -11,19 +11,22 @@
 
 I'm Brazillian, living on [Belo Horizonte-MG](http://portalbelohorizonte.com.br/inicio).
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Studying and working as a Web Developer, with frontend and backend knolege. I exercise the function over 4 years. It seems a little thing, but I want to use the things I've learn througt this years to help the people to reach their objectives, as a programmer and as a person.
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Studying and working as a Web Developer, with frontend and backend knolege. I exercise the function over 4 years. It seems a little thing, but I want to use the things I've learn througt this years to help the people to reach their objectives, as a programmer and as a person.
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="260" />
 
 ### I'm currently...
-
+ - 👰🏻‍🤵🏻‍A recent Husband.
+ - 💻 Tech enthusiast.
  - 🐝 A backend Squad Lead at [**Sambatech**](https://sambatech.com/).
- - 💼 Freelancing on extra projects
+ - 💼 Freelancing on extra projects.
  - 📱 Working on mobile apps - It is not on the stores... Yet...
  - ✍🏻 Medium Writer - Just started...
  - 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
+ 
+<br />
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;I really enjoy learning new things, new tools and new languages. My focus is always learn the basement of programming, the main logic. This way, I will know what I'm doing and what I want to do. Eventually a new paradigm will bring new possibilities, but learning the base will always give you strenght to program everywhere.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I really enjoy learning new things, new tools and new languages. My focus is always learn the basement of programming, the main logic. This way, I will know what I'm doing and what I want to do. Eventually a new paradigm will bring new possibilities, but learning the base will always give you strenght to program everywhere.
 <br />So here is some thing that I've learned... 
 
 <hr>
@@ -77,11 +80,11 @@ I'm Brazillian, living on [Belo Horizonte-MG](http://portalbelohorizonte.com.br/
 <br />
 
 <p align="center">
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelVinicius&hide_border=true&theme=nightowl" />
+  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelVinicius&hide_border=true&theme=nightowl" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelVinicius&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
 </p>
 <p align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=EmmanuelVinicius&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelVinicius&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
 
@@ -89,7 +92,7 @@ I'm Brazillian, living on [Belo Horizonte-MG](http://portalbelohorizonte.com.br/
 <br/>
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=EmmanuelVinicius&style=plastic&label=Views"><img>
+<img src="https://komarev.com/ghpvc/?username=EmmanuelVinicius&style=plastic&label=Views" />
 <img src="https://badges.pufler.dev/visits/EmmanuelVinicius/EmmanuelVinicius?color=black&logo=github" />
 </p>
 
