@@ -6,6 +6,11 @@
   </a>
 </h1>
 
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emmanuel.vinicius.98@gmail.com)](mailto:emmanuel.vinicius.98@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-vinicius/)](https://www.linkedin.com/in/emmanuel-vinicius/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@emmanuel.vinicius.98)](https://medium.com/@emmanuel.vinicius.98)
+[![StackOverflow Baddge](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/10738827/emmanuel-vinicius)](https://stackoverflow.com/users/10738827/emmanuel-vinicius)
+
 I'm Brazillian, living on [Belo Horizonte-MG](http://portalbelohorizonte.com.br/inicio).
 <br>
 Studying and working as a Web Developer, with frontend and backend knolege. I exercise the function over 4 years. It seems a little thing, but I want to use the things I've learn througt this years to help the people to reach their objectives, as a programmer and as a person.
@@ -66,13 +71,23 @@ Studying and working as a Web Developer, with frontend and backend knolege. I ex
 
 <hr>
 
-<h2 align="center">How I can be found ✨</h2>
+<h2 align="center">My stats and repositories ✨</h2>
 
 <br />
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emmanuel.vinicius.98@gmail.com)](mailto:emmanuel.vinicius.98@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-vinicius/)](https://www.linkedin.com/in/emmanuel-vinicius/) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@emmanuel.vinicius.98)](https://medium.com/@emmanuel.vinicius.98)
-[![StackOverflow Baddge](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/10738827/emmanuel-vinicius)](https://stackoverflow.com/users/10738827/emmanuel-vinicius)
 
-![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=EmmanuelVinicius&hide=issues,stars&show_icons=true&theme=dark)
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelVinicius&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmmanuelVinicius&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelVinicius&repo=DesafiosCSharp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelVinicius&repo=Hapi-Angular&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
