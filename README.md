@@ -11,7 +11,7 @@
 
 I'm Brazillian, living on [Belo Horizonte-MG](http://portalbelohorizonte.com.br/inicio).
 <br>
-Studying and working as a Web Developer, with frontend and backend knolege. I exercise the function over 4 years. It seems a little thing, but I want to use the things I've learn througt this years to help the people to reach their objectives, as a programmer and as a person.
+&nbsp;&nbsp;&nbsp;&nbsp;Studying and working as a Web Developer, with frontend and backend knolege. I exercise the function over 4 years. It seems a little thing, but I want to use the things I've learn througt this years to help the people to reach their objectives, as a programmer and as a person.
 <br>
 
 ### I'm currently...
@@ -22,6 +22,9 @@ Studying and working as a Web Developer, with frontend and backend knolege. I ex
  - ✍🏻 Medium Writer - Just started...
  - 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
 
+
+&nbsp;&nbsp;&nbsp;&nbsp;I really enjoy learning new things, new tools and new languages. My focus is always learn the basement of programming, the main logic. This way, I will know what I'm doing and what I want to do. Eventually a new paradigm will bring new possibilities, but learning the base will always give you strenght to program everywhere.
+<br />So here is some thing that I've learned... 
 
 <hr>
 <h2 align="center">Languages, Frameworks and Tools 🔥</h2>
