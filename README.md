@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EmmanuelVinicius.EmmanuelVinicius">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Emmanuel+Vinicius;Welcome+to+my+profile!&center=true&size=30">
@@ -71,23 +69,24 @@ Studying and working as a Web Developer, with frontend and backend knolege. I ex
 
 <hr>
 
-<h2 align="center">My stats and repositories ✨</h2>
+<h2 align="center">My Github stats ✨</h2>
 
 <br />
 
+<p align="center">
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelVinicius&hide_border=true&theme=nightowl" />
+</p>
+<p align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=EmmanuelVinicius&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelVinicius&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelVinicius&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmmanuelVinicius&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+<hr/>
+<br/>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelVinicius&repo=DesafiosCSharp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=EmmanuelVinicius&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/EmmanuelVinicius/EmmanuelVinicius?color=black&logo=github" />
+</p>
 
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelVinicius&repo=Hapi-Angular&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
