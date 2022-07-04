@@ -11,12 +11,11 @@
 
 I'm Brazilian, living on [Belo Horizonte-MG](http://portalbelohorizonte.com.br/inicio).
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Studying and working as a Web Developer, with front-end and back-end knowledge. I exercise the function over 4 years. It seems a little thing, but I want to use the things I've learn through this years to help the people to reach their objectives, as a programmer and as a person.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Studying and working as a Web Developer, with front-end and back-end knowledge. I exercise the function for 5 years. It seems a little thing, but I want to use the things I've learn through this years to help the people to reach their objectives, as a programmer and as a person.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="260" />
 
 ### I'm currently...
- - 👰🏻‍🤵🏻‍ A recent Husband.
  - 💻&nbsp;&nbsp; Tech enthusiast.
  - 💼&nbsp;&nbsp; Freelancing on extra projects.
  - &nbsp;📱&nbsp;&nbsp;&nbsp; Working on mobile apps - It is not on the stores... Yet...
