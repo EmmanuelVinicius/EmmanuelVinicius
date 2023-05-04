@@ -76,6 +76,5 @@ I'm Brazilian, living on [Belo Horizonte-MG](http://portalbelohorizonte.com.br/i
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=EmmanuelVinicius&style=plastic&label=Views" />
-<img src="https://badges.pufler.dev/visits/EmmanuelVinicius/EmmanuelVinicius?color=black&logo=github" />
 </p>
 
