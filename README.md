@@ -71,21 +71,6 @@ I'm Brazilian, living on [Belo Horizonte-MG](http://portalbelohorizonte.com.br/i
 
 *Icons by* [<img width= 25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original-wordmark.svg" />](https://devicon.dev/)
 
-<hr>
-
-<h2 align="center">My Github stats ✨</h2>
-
-<br />
-
-<p align="center">
-  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelVinicius&hide_border=true&theme=nightowl" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelVinicius&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-</p>
-<p align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=EmmanuelVinicius&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
-    </p>
-</details>
-
 <hr/>
 <br/>
 
